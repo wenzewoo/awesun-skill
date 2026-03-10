@@ -10,7 +10,7 @@
 
 1. 安装向日葵客户端(16.3.2以上)
 
-2. 启用[向日葵MCP服务](https://github.com/OrayDev/awesun-mcp])，并切换到 Streamable HTTP方式
+2. 启用[向日葵MCP服务](https://github.com/OrayDev/awesun-mcp])，并切换到 stdio 方式（默认）
 
 3. 安装本项目
 
