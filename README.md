@@ -1,6 +1,6 @@
 # 向日葵(Awesun) Skill
 
-基于[向日葵MCP服务](https://github.com/OrayDev/awesun-mcp])，为Claude Code、Open Code、🦞OpenClaw等支持Skills的AI Agent提供渐进式披露的工具调用。
+基于[向日葵MCP服务](https://github.com/OrayDev/awesun-mcp)，为Claude Code、Open Code、🦞OpenClaw等支持Skills的AI Agent提供渐进式披露的工具调用。
 
 ***⚠️配置Skill前请安装符合版本向日葵客户端，并启用向日葵MCP服务，详见：[https://github.com/OrayDev/awesun-mcp](https://github.com/OrayDev/awesun-mcp)***
 
